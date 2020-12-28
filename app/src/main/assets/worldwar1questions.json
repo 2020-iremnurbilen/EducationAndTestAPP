@@ -1,0 +1,84 @@
+{
+  "worldwar1questions": [
+    {
+      "question": "Which country made the first declaration of war?",
+      "answer1": "A) Germany",
+      "answer2": "B) Serbia",
+      "answer3": "C) Russia",
+      "answer4": "D) Austria-Hungary",
+      "correct": "D) Austria-Hungary"
+    },
+    {
+      "question": "In what city was Archduke Franz Ferdinand assassinated?",
+      "answer1": "A) Zagreb",
+      "answer2": "B) Sarajevo",
+      "answer3": "C) Belgrade",
+      "answer4": "D) Vienna",
+      "correct": "B) Sarajevo"
+    },
+    {
+      "question": "At the beginning of World War I, Bosnia-Herzegovina was part of",
+      "answer1": "A) Austria-Hungary",
+      "answer2": "B) Yugoslavia",
+      "answer3": "C) Serbia",
+      "answer4": "D) Croatia",
+      "correct": "A) Austria-Hungary"
+    },
+    {
+      "question": "To which other prominent leader was Kaiser Wilhelm II of Germany related?",
+      "answer1": "A) Woodrow Wilson of the United States",
+      "answer2": "B) Franz Joseph of Austria-Hungary",
+      "answer3": "C) Nicholas II of Russia",
+      "answer4": "D) Winston Churchill of Britain",
+      "correct": "C) Nicholas II of Russia"
+    },
+    {
+      "question": "Germany’s attack upon which country directly provoked Britain to go to war?",
+      "answer1": "A) France",
+      "answer2": "B) Russia",
+      "answer3": "C) Belgium",
+      "answer4": "D) Holland",
+      "correct": "C) Belgium"
+    },
+    {
+      "question": "Germany’s plan for fighting France and Russia was called",
+      "answer1": "A) The Hindenburg Plan",
+      "answer2": "B) The Schlieffen Plan",
+      "answer3": "C) Operation Barbarossa",
+      "answer4": "D) Sturm und Drang",
+      "correct": "B) The Schlieffen Plan"
+    },
+    {
+      "question": "What key fortress was the scene of the heaviest fighting during the German invasion of Belgium?",
+      "answer1": "A) Liege",
+      "answer2": "B) Fort Heineken",
+      "answer3": "C) The Hague",
+      "answer4": "D) Maginot",
+      "correct": "A) Liege"
+    },
+    {
+      "question": "Which Russian general lost the Battle of the Masurian Lakes?",
+      "answer1": "A) Samsonov",
+      "answer2": "B) Kornilov",
+      "answer3": "C) Kerensky",
+      "answer4": "D) Rennenkampf",
+      "correct": "D) Rennenkampf"
+    },
+    {
+      "question": "Which early battle marked the first major German defeat?",
+      "answer1": "A) Tannenberg",
+      "answer2": "B) The Marne",
+      "answer3": "C) Mons",
+      "answer4": "D) Masurian Lakes",
+      "correct": "B) The Marne"
+    },
+    {
+      "question": "Which best describes Austria-Hungary’s progress early in the war?",
+      "answer1": "A) Defeat by Russia; defeat by Serbia",
+      "answer2": "B) Victory over Russia; defeat by Serbia",
+      "answer3": "C) Defeat by Russia; victory over Serbia",
+      "answer4": "D) Victory over Russia; victory over Serbia",
+      "correct": "A) Defeat by Russia; defeat by Serbia"
+    }
+  ]
+}

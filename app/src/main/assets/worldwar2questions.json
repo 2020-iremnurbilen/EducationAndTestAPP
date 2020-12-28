@@ -1,0 +1,84 @@
+{
+  "worldwar2questions": [
+    {
+      "question": "Which event is generally considered to be the first belligerent act of World War II?",
+      "answer1": "A) Germany’s attack on Russia",
+      "answer2": "B) Germany’s attack on Britain",
+      "answer3": "C) Germany’s attack on Poland",
+      "answer4": "D) Germany’s occupation of Austria",
+      "correct": "C) Germany’s attack on Poland"
+    },
+    {
+      "question": "Which two countries were the first to declare war on Germany?",
+      "answer1": "A) Italy and Greece",
+      "answer2": "B) Britain and France",
+      "answer3": "C) Norway and Denmark",
+      "answer4": "D) The United States and the USSR",
+      "correct": "B) Britain and France"
+    },
+    {
+      "question": "Against which country did the Soviet Union instigate an armed conflict in late 1939?",
+      "answer1": "A) Finland",
+      "answer2": "B) Yugoslavia",
+      "answer3": "C) Czechoslovakia",
+      "answer4": "D) Hungary",
+      "correct": "A) Finland"
+    },
+    {
+      "question": "What were the first two western European countries that Germany invaded?",
+      "answer1": "A) France and Belgium",
+      "answer2": "B) Norway and Denmark",
+      "answer3": "C) Switzerland and Liechtenstein",
+      "answer4": "D) Austria and the Netherlands",
+      "correct": "B) Norway and Denmark"
+    },
+    {
+      "question": "Which best describes Germany’s standard invasion strategy at the beginning of World War II?",
+      "answer1": "A) Attack with a combination of speed and overwhelming force",
+      "answer2": "B) Intimidate the enemy by first amassing a large force along the enemy’s border",
+      "answer3": "C) Begin with acts of sabotage behind enemy lines",
+      "answer4": "D) Draw out battles for as long as possible to wear the enemy out",
+      "correct": "A) Attack with a combination of speed and overwhelming force"
+    },
+    {
+      "question": "What major mistake did the Allies make in preparing to defend against Germany’s attack on France?",
+      "answer1": "A) They failed to anticipate that the attack would take place",
+      "answer2": "B) They expected an attack by ground forces rather than a naval assault",
+      "answer3": "C) They misinterpreted where the main invasion would take place",
+      "answer4": "D) They failed to set up minefields along the border with Germany",
+      "correct": "C) They misinterpreted where the main invasion would take place"
+    },
+    {
+      "question": "What happened at Dunkirk in May 1940?",
+      "answer1": "A) British forces retreated across the English Channel",
+      "answer2": "B) The French army lost a major battle",
+      "answer3": "C) American forces invaded France",
+      "answer4": "D) German forces were defeated in a large naval battle",
+      "correct": "A) British forces retreated across the English Channel"
+    },
+    {
+      "question": "Where was the French surrender to Germany signed?",
+      "answer1": "A) In Paris",
+      "answer2": "B) In Berlin",
+      "answer3": "C) In a railway car",
+      "answer4": "D) On a boat",
+      "correct": "C) In a railway car"
+    },
+    {
+      "question": "Why did the British Royal Navy attack French warships at Mers-el-Kebir?",
+      "answer1": "A) The French crews had sworn allegiance to Germany",
+      "answer2": "B) France was at war with Britain",
+      "answer3": "C) The French crews refused to surrender their ships when the British requested",
+      "answer4": "D) They were manned by Germans",
+      "correct": "C) The French crews refused to surrender their ships when the British requested"
+    },
+    {
+      "question": "What was Germany’s initial strategy for conquering Britain?",
+      "answer1": "A) First establish air superiority, then send in ground forces",
+      "answer2": "B) First destroy the British navy, then send in ground forces",
+      "answer3": "C) First send in ground forces, then attack the country with aircraft",
+      "answer4": "D) Immobilize London with poison gas attacks",
+      "correct": "A) First establish air superiority, then send in ground forces"
+    }
+  ]
+}

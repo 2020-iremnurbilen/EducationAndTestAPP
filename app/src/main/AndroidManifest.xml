@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.irem.FinalProject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DemoTest">
+        <activity android:name="com.irem.FinalProject.activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.irem.FinalProject.activity.ResultActivity" />
+        <activity android:name="com.irem.FinalProject.activity.TestActivity" />
+        <activity android:name="com.irem.FinalProject.activity.MainActivity2" />
+        <activity android:name="com.irem.FinalProject.activity.TestActivity2" />
+        <activity android:name="com.irem.FinalProject.activity.ResultActivity2" />
+    </application>
+
+</manifest>

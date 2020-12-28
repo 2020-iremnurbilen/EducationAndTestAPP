@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity2">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        app:elevation="0dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:layout_gravity="center"
+        android:layout_height="?attr/actionBarSize"
+        tools:ignore="MissingConstraints">
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:textSize="25sp"
+                android:fontFamily="@font/kgprimary"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="World War 2"
+                android:textColor="@color/black"
+                android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"/>
+        </LinearLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/youtubecard"
+        android:layout_below="@id/appbar"
+        style="@style/RecyclerViewSlider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.pierfrancescosoffritti.androidyoutubeplayer.player.YouTubePlayerView
+            android:id="@+id/youtube_player_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerSlider"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_below="@id/youtubecard" />
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:onClick="startquiz"
+        android:background="@drawable/gradient_result"
+        android:id="@+id/returnHome"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="65dp">
+        <TextView
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:fontFamily="@font/kgprimary"
+            android:gravity="center"
+            android:text="Start Quiz"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+</RelativeLayout>
